@@ -1,0 +1,34 @@
+button{
+    background-color:blue;
+    color:lightblue;
+    width: 80px;
+    height: 50px;
+}
+button:hover{color: crimson;}
+p{
+    color:burlywood;
+}
+.have-to-have{
+    color:bisque
+}
+h1{
+    border: solid blue;
+}
+.food{
+    display: block;
+    text-align: center;
+}
+.cool {
+    display:block;
+    text-align: center;
+    background-color: blueviolet;
+}
+.left{
+    float: left;
+}
+.fun{
+    float: left;
+}
+.wat{
+    float: left;
+}

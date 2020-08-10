@@ -1,0 +1,48 @@
+.leave {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+body {
+    background-image: url("https://videohive.img.customer.envatousercontent.com/files/a4c2e1aa-9c57-4516-8d8b-9ae80aae23a5/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=262fc93ff4a6fce00dfd3430edd1f45a");
+}
+
+#bigbutton {
+    width: 200;
+    height: 200;
+}
+
+#worlddestroybuttonone {
+    background-color: red;
+    box-shadow: 0 9px #8a0000;
+    transition-duration: 1s;
+}
+
+.worlddestroybutton {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: medium;
+    height: 100;
+    width: 100;
+    border-style: none;
+    border-radius: 50%;
+}
+
+#bigbutton:hover {
+    animation: rotatebutton 0.5s infinite linear;
+}
+
+#worlddestroybuttonone:active {
+    background-color: rgb(200,0,0);
+    box-shadow: 0 5px rgb(100,0,0);
+    transform: translateY(4px);
+  }
+
+@keyframes rotatebutton {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
+
+.worlddestroybutton:hover {
+    animation: rotatebutton 0.5s infinite linear;
+}

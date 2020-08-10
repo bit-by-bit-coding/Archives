@@ -1,0 +1,38 @@
+
+em{
+    border-style: solid;
+}
+
+*{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    background-color:#fadedc;
+    color:black;
+        
+
+}
+
+body{
+    font-family: 'Indie Flower', cursive;
+    border-style:double;
+    border-width:2mm;
+}
+
+.flowers12{
+    background-image:repeating-linear-gradient(68deg,#facff7 45%,#FFE5B4 55%);
+
+    color:white;
+    width:55px;
+    height:80px;
+}
+
+.uglyButton{
+    background-image:repeating-linear-gradient(#b3c5e8 35,#facff7 65%)
+}
+
+button:hover {
+    border-radius: 14px;
+    border-style: solid;
+    border-color: #f5e4e4;
+}
+

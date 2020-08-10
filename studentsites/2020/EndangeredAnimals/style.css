@@ -1,0 +1,83 @@
+.hi{
+    font-size: 500px;
+    color: black;
+    
+
+}
+
+
+button{
+    width: 616px;
+}
+.button1{
+    margin-left: 7px;
+    background-image: linear-gradient(90deg,yellow, orange);
+}
+.button2{
+    background-image: linear-gradient(90deg,orange,pink);
+}
+.button3{
+    background-image: linear-gradient(90deg,pink,magenta);
+}
+
+body{
+    background-color: black;
+    
+}
+ 
+h1 {
+    color: white;
+    margin-left: 5px;
+  }
+  p{
+      margin-left: 5px;
+  }
+.a{ height: 200px;}
+.b{ height: 200px;}
+.c{ height: 200px;}
+.c:hover{ height: 985px;}
+.d{ height: 200px;}
+.l{ height: 200px;}
+.r{ height: 200px;}
+.e{ height: 200px;}
+.e:hover{ height: 1247px;}
+.f{ height: 200px;}
+.g{ height: 200px;}
+.h{ height: 200px;}
+.berry{ height: 200px;}
+.john{ height: 200px;}
+.w{ height: 200px;}
+.i{ height: 200px;}
+.j{ height: 200px;}
+.k{ height: 200px;}
+.k:hover{ height: 1248px;}
+.z{ height: 200px;}
+.m{ height: 200px;}
+.n{ height: 200px;}
+.o{ height: 200px;}
+.p{ height: 200px;}
+.q{ height: 200px;}
+.q:hover{ height: 1250px;}
+.benson{ height: 200px;}
+.y{ height: 200px;}
+.s{ height: 200px;}
+.t{ height: 200px;}
+.t:hover{ height: 975px;}
+.u{ height: 200px;}
+.v{ height: 200px;}
+.bee{ height: 200px;}
+.x{ height: 200px;}
+.sloth{ height: 200px;}
+.sloth:hover{ height:1404px;}
+.panda{ height: 200px;}
+.sealion{ height: 200px;}
+.shark{ height: 200px;}
+.dolphin{ height: 200px;}
+
+
+
+.text{ 
+    color: white;
+    font-size: 20px;
+
+}

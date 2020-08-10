@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 252, 90);
+    text-align: center;
+    image-orientation: center;
+}
+
+button {
+    width: 500;
+    color: whitesmoke;
+    background-color: black; 
+}
+
+button:hover {
+    background: linear-gradient(red,orange,yellow);
+    border-style: dotted;
+    border-color: rgb(223, 109, 128);
+    text-shadow: 2px 2px black;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;

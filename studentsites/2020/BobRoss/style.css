@@ -1,0 +1,79 @@
+
+
+h1{
+    border-style: double
+}
+h1{
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: rgb(16, 23, 44);
+}
+ 
+button{
+    border-radius: 30px;
+    border-width: 5px;
+    border-color: rgb(70, 28, 187);
+}
+
+.tiny{
+    font-size: 100px;
+}
+
+
+
+body{
+    background-color: rgb(10, 24, 39);
+    color: rgb(39, 39, 39);
+}
+
+button:hover{
+    background-color: lightcoral;
+    width: 200px;
+    
+}
+
+p:hover{
+    color: lightseagreen;
+}
+
+button:hover{
+    color: rgb(255, 255, 255);
+}
+
+
+div{
+    background-color: violet;
+}
+
+.bob{
+    background-color: violet;
+}
+
+body{
+    background-image: url(https://cdn11.bigcommerce.com/s-e9xh4/images/stencil/1280x1280/products/9344/21419/Bob_Ross_The_Joy_of_Painting1__01948.1533233230.jpg?c=2?imbypass=on);
+}
+
+button{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLtzGLYjXcWq0vKepkCA_dS0gOcJEw1mMAzw&usqp=CAU);
+}
+
+body{
+    
+}
+
+.muffin{
+    transform: rotate(25deg);
+    margin: 100px;
+}
+
+button{text-align: center;}
+
+body{text-align: center;}
+
+.landscape1{
+    transform: rotate(-10deg);
+}
+
+.landscape3{transform: rotate(10deg);}
+.landscape4{transform: rotate(-10deg);}
+
