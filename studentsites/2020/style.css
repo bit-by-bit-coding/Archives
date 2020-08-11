@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    color: #2F2D2C;
+}
+
+#header {
+    height: 30vh;
+    width: 100%;
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  p {
+    font-size: 1em;
+  }
+
+  * {
+    font-family: 'Nunito', sans-serif;
+  }
+
+  a {
+    color: #39B7C2;
+  }
+
+  a:visited {
+      color: #153570;
+  }
+
+  #content {
+    padding: 7vh 7vw;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    /* height: 12vh; */
+    justify-content: center;
+    align-items: flex-start;
+}
+
+h2 {
+    font-size: 1.2em;
+}
