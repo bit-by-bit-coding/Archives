@@ -1,0 +1,21 @@
+p{
+    font-size: x-large;
+    font-family: fantasy;
+    background-color: lightblue;
+text-decoration-color: white;
+background-color: white;
+
+}
+button:hover{
+background-color: white;
+}
+button{
+    font-size: x-large;
+    font-family: monospace;
+    text-decoration-color: white;
+    border: grey;
+
+}
+body{
+    background-color: lightgoldenrodyellow;
+}  
