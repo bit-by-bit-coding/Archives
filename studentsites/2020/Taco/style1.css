@@ -1,0 +1,49 @@
+p{
+    font-size: 18px;
+}
+
+button {
+    width:400px;
+    height:60px;
+    background-color: black;
+    color: rgb(255, 219, 166);
+}
+
+button:hover {
+    width:410px;
+    Height:70px;
+    background-color: rgb(37, 37, 37);
+}
+
+body {
+    background-color: peachpuff;
+}
+
+input {
+    background-color: rgb(255, 173, 107);
+    border: dashed;
+    border-width: 2px;
+    border-color: rgb(73, 73, 73);
+}
+
+#submit {
+    width: fit-content;
+    height: 28px;
+    background-color: rgb(56, 56, 56);
+}
+
+#submit2 {
+    width: fit-content;
+    height: 28px;
+    background-color: rgb(56, 56, 56);
+}
+
+#submit:hover {
+    width: fit-content;
+    height: 35px;
+}
+
+#submit2:hover {
+    width: fit-content;
+    height: 35px;
+}
